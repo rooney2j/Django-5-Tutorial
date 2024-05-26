@@ -1,0 +1,9 @@
+# virtual environment
+tutorial/
+
+# archivos que se crean luego de las migraciones
+__pycache__/
+*/migrations/[0-9]*
+
+# base de datos de prueba
+db.sqlite3
